@@ -89,7 +89,8 @@ This script removes the need to copy-paste symbols from the internet or use comp
 │ RCtrl + b │   β    │ RCtrl + m │   μ    │
 │ RCtrl + g │   γ    │ RCtrl + o │   ω    │
 │ RCtrl + d │   δ    │ RCtrl + r │   ρ    │
-│ RCtrl + t │   θ    │ RCtrl + z │   ζ    │
+│ RCtrl + h │   η    │ RCtrl + z │   ζ    │
+│ RCtrl + t │   θ    │           │        │
 └─────────────────────────────────────────┘
 ```
 
