@@ -78,7 +78,7 @@ RCtrl & x::Send {U+2206}   ; ∆
 RCtrl & u::Send {U+00B1}   ; ±
 RCtrl & c::Send {U+00B0}   ; °
 RCtrl & q::Send {U+03C3}   ; σ
-RCtrl & h::Send {U+03B7}   ; ɳ
+RCtrl & q::Send {U+03C3}   ; σ
 
 RCtrl & -::Send {U+2212}   ;
 RCtrl & =::Send {U+2260}   ;
