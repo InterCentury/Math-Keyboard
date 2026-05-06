@@ -1,6 +1,8 @@
 # Math Keyboard for Windows
 ```
-This repository contains an AutoHotkey script designed to make typing math and physics symbols much easier on Windows. Entering these symbols normally is frustrating and slow. To solve this problem, I created this simple script that lets you type common symbols using keyboard shortcuts.
+This repository contains an AutoHotkey script designed to make typing math and physics symbols much
+easier on Windows. Entering these symbols normally is frustrating and slow. To solve this problem,
+I created this simple script that lets you type common symbols using keyboard shortcuts.
 
 The script works with two main types of shortcuts:
 
@@ -15,7 +17,8 @@ Example: Left Ctrl + a produces α (alpha)
 Example: Left Ctrl + b produces β (beta)
 Example: Left Ctrl + d produces δ (delta)
 
-This script removes the need to copy-paste symbols from the internet or use complicated character maps, allowing you to type faster and stay focused on your work.
+This script removes the need to copy-paste symbols from the internet or use complicated character maps,
+allowing you to type faster and stay focused on your work.
 
 ```
 
@@ -36,7 +39,7 @@ This script removes the need to copy-paste symbols from the internet or use comp
 └─────────────────────────────────────────┘
 ```
 
----
+
 
 **LETTER POWERS (Superscript Letters)**
 
@@ -61,7 +64,7 @@ This script removes the need to copy-paste symbols from the internet or use comp
 ```
 \* *q uses closest available substitute*
 
----
+
 
 ### ⚡ MATH SYMBOL MODE (RCtrl)
 
@@ -77,7 +80,7 @@ This script removes the need to copy-paste symbols from the internet or use comp
 └─────────────────────────────────────────┘
 ```
 
----
+
 
 **GREEK LETTERS**
 
@@ -94,7 +97,7 @@ This script removes the need to copy-paste symbols from the internet or use comp
 └─────────────────────────────────────────┘
 ```
 
----
+
 
 **SPECIAL SYMBOLS**
 
@@ -107,7 +110,7 @@ This script removes the need to copy-paste symbols from the internet or use comp
 └─────────────────────────────────────────┘
 ```
 
----
+
 
 **OPERATORS**
 
@@ -121,7 +124,7 @@ This script removes the need to copy-paste symbols from the internet or use comp
 └─────────────────────────────────────────┘
 ```
 
----
+
 
 **BOX DRAWING**
 
@@ -137,14 +140,14 @@ This script removes the need to copy-paste symbols from the internet or use comp
 └─────────────────────────────────────────┘
 ```
 
----
+
 
 ### CORE IDEA
 
 - **RAlt → Power mode** (exponents & superscripts)
 - **RCtrl → Math symbols + Greek + box drawing**
 
----
+
 
 ### MINI MEMORY TRICK
 
@@ -153,6 +156,6 @@ This script removes the need to copy-paste symbols from the internet or use comp
 - RCtrl + Letters → Greek/math
 - RCtrl + Numbers → box drawing
 
----
+
 
 **RAlt = power ⚡** &nbsp;&nbsp;&nbsp;&nbsp; **RCtrl = math + UI drawing 📐**
