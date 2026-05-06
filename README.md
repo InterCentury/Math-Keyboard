@@ -7,7 +7,8 @@ I created this simple script that lets you type common symbols using keyboard sh
 The script works with two main types of shortcuts:
 
 1.  Exponents using the Left Alt key
-Hold the Left Alt key and press any letter or number to type that character in superscript (exponent) form.
+Hold the Left Alt key and press any letter or number to type that character in superscript
+(exponent) form.
 Example: Left Alt + a produces ᵃ
 Example: Left Alt + 2 produces ²
 
@@ -17,8 +18,8 @@ Example: Left Ctrl + a produces α (alpha)
 Example: Left Ctrl + b produces β (beta)
 Example: Left Ctrl + d produces δ (delta)
 
-This script removes the need to copy-paste symbols from the internet or use complicated character maps,
-allowing you to type faster and stay focused on your work.
+This script removes the need to copy-paste symbols from the internet or use complicated character
+maps,allowing you to type faster and stay focused on your work.
 
 ```
 
